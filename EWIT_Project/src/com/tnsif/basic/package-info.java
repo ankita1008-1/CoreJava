@@ -1,1 +1,1 @@
-package com.tnsif.multithreading;
+package com.tnsif.staticdemo;
