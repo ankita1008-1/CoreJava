@@ -1,24 +1,13 @@
-package com.tnsif.firstpackage1;
+package com.tnsif.interfaces;
 
 public class Executor {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		Person p1=new Person();
-		p1.personAge = 22;
-		p1.personCity = "Bengaluru";
-		p1.setPersonName("Ankita");
-		
-		p1.display();
-		
-		Person p2=new Person();
-		p2.display();
+		//SampleInterface1 obj;
+				Derived d=new Derived();
+				d.display();
+			}
+		}
 
-		Person p3=new Person();
-		p3.display();
-	}
-
-
-	}
-
-
+	
