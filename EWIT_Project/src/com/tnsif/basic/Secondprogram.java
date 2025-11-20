@@ -1,9 +1,11 @@
-package com.tnsif.basic;
+package com.tnsif.firstpackage;
 
 public class Secondprogram {
 
 	public static void main(String[] args) {
-		System.out.println("Ankita");
+		person p=new person();
+		p.display();
+		
 
 	}
 
