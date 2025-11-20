@@ -1,1 +1,1 @@
-package com.tnsif.firstpackage;
+package com.tnsif.multithreading;
